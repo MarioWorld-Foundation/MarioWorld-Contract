@@ -5,7 +5,7 @@ The Mushroom Kingdom Mario Fans!
 
 This is the Mario World Fan Token! (SHROOMS) We are an organization of Mario loving nerds who created the first Defi marketplace dedicated to Mario Fans and other Nintendo games plus an NFT platform game on the BSC! Buy, HODL and stake now to earn SHROOMS coins and Princess CAKE tokens!
 
-Trade on Pancake: https://pancakeswap.finance/swap#/swap?outputCurrency=0xAEEe5952bE7381Cc413b686391E1d3C2A66B008B
+Trade on Pancake: https://pancakeswap.finance/swap#/swap?outputCurrency=0xAEEe5952bE7381Cc413b686391E1d3C2A66B008B.  
 Web: https://marioworldfancoin.com/
 
 ### Tokenomics
